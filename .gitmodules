@@ -1,0 +1,3 @@
+[submodule "Roomr---Perl-Mojo-DBIx--Class-Plack"]
+	path = Roomr---Perl-Mojo-DBIx--Class-Plack
+	url = git@github.com:mgatto/Roomr---Perl-Mojo-DBIx--Class-Plack.git
