@@ -1,3 +1,12 @@
 [submodule "Roomr---Perl-Mojo-DBIx--Class-Plack"]
 	path = Roomr---Perl-Mojo-DBIx--Class-Plack
 	url = git@github.com:mgatto/Roomr---Perl-Mojo-DBIx--Class-Plack.git
+[submodule "Roomr-Frontend"]
+	path = Roomr-Frontend
+	url = git@github.com:mgatto/Roomr-Frontend.git
+[submodule "Roomr-Static-Pages"]
+	path = Roomr-Static-Pages
+	url = git@github.com:mgatto/Roomr-Static-Pages.git
+[submodule "Roomr-API/Roomr--Perl-Mojo-Plack"]
+	path = Roomr-API/Roomr--Perl-Mojo-Plack
+	url = git@github.com:mgatto/Roomr---Perl-Mojo-DBIx--Class-Plack.git
